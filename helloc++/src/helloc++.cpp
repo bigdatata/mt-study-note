@@ -121,7 +121,7 @@ using namespace std;
 //	static const int m=0;
 //	//A():m(0){}
 //};
-int main() {
+//int main() {
 
 //	Base base(98);
 //	cout<<base.getI()<<endl;
@@ -355,6 +355,6 @@ int main() {
 //
 //	cout<<StrA()<<endl;
 //	cout<<StrB()<<endl;
-
-	return 0;
-}
+//
+//	return 0;
+//}
